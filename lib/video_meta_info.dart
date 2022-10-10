@@ -3,6 +3,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:path/path.dart';
+import 'dart:math'; 
 import 'dart:developer' as developer;
 
 class VideoMetaInfo {
